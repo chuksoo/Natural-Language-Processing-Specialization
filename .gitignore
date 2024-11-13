@@ -166,3 +166,4 @@ cython_debug/
 3 - Natural Language Processing with Sequence Models/Week 2 - LSTMs and Named Entity Recognition/data
 4 - Natural Language Processing with Attention Models/Week 3 - Question Answering/tydiqa_data/
 4 - Natural Language Processing with Attention Models/Week 3 - Question Answering/distilbert-base-cased-distilled-squad/
+4 - Natural Language Processing with Attention Models/Week 3 - Question Answering/pretrained_models/
